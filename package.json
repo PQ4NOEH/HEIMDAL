@@ -1,0 +1,30 @@
+{
+  "name": "heimdal",
+  "version": "1.0.0",
+  "description": "Query engine for vw-Navarra IT tickets platform",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PQ4NOEH/HEIMDAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PQ4NOEH/HEIMDAL/issues"
+  },
+  "homepage": "https://github.com/PQ4NOEH/HEIMDAL#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
